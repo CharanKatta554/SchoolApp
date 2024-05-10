@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production build
+/build
+
+# IDE files
+.vscode
+.idea
+
+# OS generated files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables
+.env
